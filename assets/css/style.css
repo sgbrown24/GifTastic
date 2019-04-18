@@ -1,0 +1,47 @@
+
+body{
+    font: 18px;
+    background-color: brown;
+}
+
+
+#player-form{
+float: left;
+background-color: aliceblue;
+margin-right: 20px;
+
+}
+
+
+#player{
+    width: 70%; 
+}
+
+.player-item{
+    float: left;
+    padding: 20px;
+}
+
+
+form{
+    float: right;
+    width: 30%;
+    padding: 20px;
+margin-top: 100px;
+}
+
+label  {
+display: block;
+margin-bottom: 10px;
+font-weight: 700;
+}
+
+button,input[type="submit"] {
+    padding: 5px 20px;
+    margin: 0 10px 10px 0;
+    font-size: 18px;
+    color:white;
+    cursor: pointer;
+    background: #665599;
+    box-shadow: 2px 2px 3px #bbb
+}
